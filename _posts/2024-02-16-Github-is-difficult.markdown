@@ -3,8 +3,8 @@ layout: post
 title: Git blog
 date: 2024-02-16 15:32:30 +0900
 description: You'll find this post in your changes.
-img: github.jpg
-fig-caption: Github image#
+img: github.webp
+fig-caption: Github image
 tags: [Backend, Github, Jekyll, Terminal]
 ---
 Github
