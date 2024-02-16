@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Github blog
-date: 2024-02-16 15:04:30 +0900
+title: Git blog
+date: 2024-02-16 15:32:30 +0900
 description: You'll find this post in your changes.
 img: github.jpg
 fig-caption: #
